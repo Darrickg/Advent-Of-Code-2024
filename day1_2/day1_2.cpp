@@ -44,7 +44,7 @@ int day1_2() {
     return total;
 }
 
-int main () {
+int main() {
     cout << day1_2() << endl;
     return 0;
 }
